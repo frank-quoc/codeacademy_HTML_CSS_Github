@@ -10,26 +10,23 @@ h1 {
     text-align: center
 }
 
-span {
+.item h2 {
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+}
+
+.price {
     color: blue;
     font-weight: bold;
 }
 
 #brush {
     background-color: mediumspringgreen;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
 }
 #frame {
     background-color: lightcoral;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
 }
 #paint {
     background-color: skyblue;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
 }
