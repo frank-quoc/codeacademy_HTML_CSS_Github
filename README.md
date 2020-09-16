@@ -12,7 +12,7 @@ One of the best ways to start coding is by building websites. Whether you want t
     * [Project: Fashion Blog](html/elements_and_structure/project)
 ### [2. Beginner CSS](css)
   - **[Elements and Structure](css)**
-    * [Lesson: CSS Setup and Selectors](css/css_setup_and_selectors/lesson)
-    * [Lesson: CSS Visual Rules](css/css_visual_rules/lesson)
+    * [Lesson: CSS Setup and Selectors](css/setup_and_selectors/lesson)
+    * [Lesson: CSS Visual Rules](css/visual_rules/lesson)
     * [Project: Healthy Recipes](css/project/healthy_recipes)
     * [Project: Olivia Woodruff Portfolio](css/project/olivia_woodruff_portfolio)
