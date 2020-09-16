@@ -9,5 +9,4 @@ One of the best ways to start coding is by building websites. Whether you want t
 ### [1. Beginner HTML](html)
   - **[Elements and Structure](html/elements_and_structure)**
     * [Lesson: Intro to HTML](html/elements_and_structure/lesson)
-    * [Lesson: HTML Document Standards](html/elements_and_structure/lesson2)
     * [Project: Fashion Blog](html/elements_and_structure/project)
