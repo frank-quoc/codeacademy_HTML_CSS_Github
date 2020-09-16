@@ -11,7 +11,8 @@ One of the best ways to start coding is by building websites. Whether you want t
     * [Lesson: Intro to HTML](html/elements_and_structure/lesson)
     * [Project: Fashion Blog](html/elements_and_structure/project)
 ### [2. Beginner CSS](css)
-  - **[Elements and Structure](html/elements_and_structure)**
-    * [Lesson: CSS Setup and Selectors](html/elements_and_structure/lesson)
-    * [Project: Healthy Recipes](html/elements_and_structure/project)
-    * [Project: Olivia Woodruff Portfolio](html/elements_and_structure/project2)
+  - **[Elements and Structure](css)**
+    * [Lesson: CSS Setup and Selectors](css/css_setup_and_selectors/lesson)
+    * [Lesson: CSS Visual Rules](css/css_visual_rules/lesson)
+    * [Project: Healthy Recipes](css/project/healthy_recipes)
+    * [Project: Olivia Woodruff Portfolio](css/project/olivia_woodruff_portfolio)
