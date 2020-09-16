@@ -1,2 +1,13 @@
-# codeacademy_HTML_CSS_Github
+# Build a Website with HTML, CSS, and Github Pages
+
 Build a Website with HTML, CSS, and Github Pages
+
+## Path Description
+
+One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there.
+
+### [1. Beginner HTML](html)
+  - **[Elements and Structure](html/elements_and_structure)**
+    * [Lesson: Intro to HTML](html/elements_and_structure/lesson)
+    * [Lesson: HTML Document Standards](html/elements_and_structure/lesson2)
+    * [Project: Fashion Blog](html/elements_and_structure/project)
